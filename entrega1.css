@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background:url(fnd.jpg);
+	background-size: 50%;
+}
+a{
+	font-family: 'stencil';
+	text-decoration: none;
+}
+.letra{
+	font-family: stencil;
+	color: black;
+}
+.mb{
+	position: absolute;	
+	background-color: #e7e7de;
+	top: 2%;
+	left:10%;
+	height: 1000%;
+	width: 80%;
+	}
+	.js{
+	position: absolute;
+	top: 10px;
+	left: 5%;
+	margin: 10px auto;
+	background: green;
+		border-radius:10px;
+		color: white;
+	font-family: 'stencil';
+	text-decoration: none;
+		padding: 5px;
+		border:solid black 4px; 
+	display:all;
+}
+.js:hover{
+	border:solid #16c79a 4px; 
+	display:all;
+}
+.xd{
+	position: absolute;
+	top: 10px;
+	left:37.5% ;
+	width: 24%;
+	height: 0.5%;
+	background: green;
+		border-radius:10px;
+		color: white;
+	font-family: 'stencil';
+	padding: 5px;
+	border:solid black 4px; 
+	display:all;
+}
+.jx{
+	position: absolute;	
+	background-color: green;
+	top: 2%;
+	left:3%;
+	height:75%;
+	width: 95%;
+	border-radius: 80px;
+}
+.menu{
+	top: 2%;
+position: absolute;
+left: 23%;
+	height:5%;
+	width: 50%;
+	padding: 1%;
+		border-radius: 10px;
+	background-color: white;
+	color: black;
+
+}
+.ancla1{
+	top: 15%;
+position: absolute;
+left: 10%;
+	height:13%;
+	width: 80%;
+	padding: 1%;
+		border-radius: 10px;
+	background-color: white;
+}
+.img{
+	position: absolute;
+	top: 0%;
+	left: 70%;
+}
+.ancla2{
+	top: 35%;
+position: absolute;
+left: 10%;
+	height:11%;
+	width: 80%;
+	padding: 1%;
+		border-radius: 10px;
+	background-color: white;
+}
+.ancla3{
+	top: 55%;
+position: absolute;
+left: 10%;
+	height:12%;
+	width: 80%;
+	padding: 1%;
+		border-radius: 10px;
+	background-color: white;
+}
+.ancla4{
+	top: 75%;
+position: absolute;
+left: 10%;
+	height:12%;
+	width: 80%;
+	padding: 1%;
+		border-radius: 10px;
+	background-color: white;
+}
